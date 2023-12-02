@@ -24,4 +24,6 @@ async def heh(ctx, count_heh = 5):
 async def gen(ctx):
     await ctx.send(gen_pass(10))
 
+#zmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianzazmianazmianza
+
 bot.run("MTE3Nzg5NDI3NTA5NTIwMzk1MA.GAyOhq.L-Frz-2HVBFKBjGbpyy-2iZK2vP0-OPldfjqus")
